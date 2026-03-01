@@ -60,6 +60,18 @@ body {
     max-width: 420px;
 }
 
+.hero-text h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.section-title h2 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #1f1f1f;
+}
+
 .primary-button {
     display: inline-block;
     padding: 10px 20px;
