@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="Fix: Fixat flera h1 taggar och ändrat dem till h3">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="Accessibility: strukturerade om innehåll till korrekt landmark-struktur">
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772399166516</updated>
       <workItem from="1772399167572" duration="900000" />
-      <workItem from="1772402896427" duration="2110000" />
+      <workItem from="1772402896427" duration="3408000" />
     </task>
     <task id="LOCAL−00001" summary="La in axe kod för fick inte axe extension till att funka">
       <option name="closed" value="true" />
@@ -105,7 +105,42 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1772404890158</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Accessibility: ersatt div med main för korrekt landmark-struktur">
+      <option name="closed" value="true" />
+      <created>1772405113267</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1772405113267</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Accessibility: ersatt div med header-landmark">
+      <option name="closed" value="true" />
+      <created>1772405191180</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1772405191180</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Accessibility: ersatt div med footer-landmark">
+      <option name="closed" value="true" />
+      <created>1772405240896</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1772405240896</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Accessibility: ersatt div med nav-landmark">
+      <option name="closed" value="true" />
+      <created>1772405332234</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1772405332234</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Accessibility: strukturerade om innehåll till korrekt landmark-struktur">
+      <option name="closed" value="true" />
+      <created>1772406180473</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1772406180473</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +162,11 @@
     <MESSAGE value="fix: lagt till lang-attribut på html-elementet" />
     <MESSAGE value="Fix: La in nya bilder som är passande och har lagt till korrekta alt-attribut på alla bilder" />
     <MESSAGE value="Fix: Fixat flera h1 taggar och ändrat dem till h3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: Fixat flera h1 taggar och ändrat dem till h3" />
+    <MESSAGE value="Accessibility: ersatt div med main för korrekt landmark-struktur" />
+    <MESSAGE value="Accessibility: ersatt div med header-landmark" />
+    <MESSAGE value="Accessibility: ersatt div med footer-landmark" />
+    <MESSAGE value="Accessibility: ersatt div med nav-landmark" />
+    <MESSAGE value="Accessibility: strukturerade om innehåll till korrekt landmark-struktur" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accessibility: strukturerade om innehåll till korrekt landmark-struktur" />
   </component>
 </project>
