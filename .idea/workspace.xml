@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="" />
+    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="fix: lagt till lang-attribut på html-elementet">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +15,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kanjgj"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kanjgj&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/JRomin/chasacademy-fe-individuelluppgift.git",
+    "url": "https://github.com/Kanjgj/Frontend_individuell_uppgift-Markus_Nikolic.git",
     "accountId": "6a863490-89f6-42ee-836f-ac9b8b7302b2"
   }
 }]]></component>
@@ -29,9 +31,9 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3AMOquvuRnjB5Se3fdW74eOcnc6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,7 +47,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -73,10 +75,42 @@
       <option name="presentableId" value="Default" />
       <updated>1772399166516</updated>
       <workItem from="1772399167572" duration="900000" />
+      <workItem from="1772402896427" duration="1761000" />
     </task>
+    <task id="LOCAL−00001" summary="La in axe kod för fick inte axe extension till att funka">
+      <option name="closed" value="true" />
+      <created>1772402963680</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1772402963680</updated>
+    </task>
+    <task id="LOCAL−00002" summary="fix: lagt till lang-attribut på html-elementet">
+      <option name="closed" value="true" />
+      <created>1772403190678</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1772403190678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="La in axe kod för fick inte axe extension till att funka" />
+    <MESSAGE value="fix: lagt till lang-attribut på html-elementet" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: lagt till lang-attribut på html-elementet" />
   </component>
 </project>
