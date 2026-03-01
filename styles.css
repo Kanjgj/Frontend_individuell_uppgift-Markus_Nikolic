@@ -126,11 +126,16 @@ body {
 .add-to-cart {
     display: inline-block;
     padding: 8px 16px;
-    background-color: #dddddd;
-    color: #777777;
+    background-color: #1a7f37;
+    color: #ffffff;
     border-radius: 4px;
     cursor: pointer;
     font-size: 13px;
+    transition: background-color 0.2s ease;
+}
+
+.add-to-cart:hover {
+    background-color: #145c28;
 }
 
 .newsletter {
