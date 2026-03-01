@@ -22,8 +22,9 @@ body {
 
 .logo {
     font-size: 24px;
-    font-weight: bold;
-    color: #999999;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    color: #1f1f1f;
 }
 
 .menu {
@@ -33,8 +34,14 @@ body {
 
 .menu-item a {
     text-decoration: none;
-    color: #888888;
+    color: #333333;
     font-size: 14px;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.menu-item a:hover {
+    color: #1a7f37;
 }
 
 .hero {
