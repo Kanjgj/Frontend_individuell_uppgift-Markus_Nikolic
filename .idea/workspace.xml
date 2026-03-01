@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="Accessibility: strukturerade om innehåll till korrekt landmark-struktur">
+    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="UI: uppdaterade add-to-cart med förbättrad kontrast och hover">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772399166516</updated>
       <workItem from="1772399167572" duration="900000" />
-      <workItem from="1772402896427" duration="3408000" />
+      <workItem from="1772402896427" duration="4396000" />
     </task>
     <task id="LOCAL−00001" summary="La in axe kod för fick inte axe extension till att funka">
       <option name="closed" value="true" />
@@ -140,7 +141,35 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1772406180473</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="Fix: ökade textkontrast genom mörkare textfärg">
+      <option name="closed" value="true" />
+      <created>1772406428588</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1772406428588</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Accessibility: förbättrade färgkontrast på primary-button">
+      <option name="closed" value="true" />
+      <created>1772406622376</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1772406622376</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Accessibility: förbättrade färgkontrast till footer och lade till hover-effekter för bättre tillgänglighet">
+      <option name="closed" value="true" />
+      <created>1772406963799</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1772406963799</updated>
+    </task>
+    <task id="LOCAL−00013" summary="UI: uppdaterade add-to-cart med förbättrad kontrast och hover">
+      <option name="closed" value="true" />
+      <created>1772407091998</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1772407091998</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +196,10 @@
     <MESSAGE value="Accessibility: ersatt div med footer-landmark" />
     <MESSAGE value="Accessibility: ersatt div med nav-landmark" />
     <MESSAGE value="Accessibility: strukturerade om innehåll till korrekt landmark-struktur" />
-    <option name="LAST_COMMIT_MESSAGE" value="Accessibility: strukturerade om innehåll till korrekt landmark-struktur" />
+    <MESSAGE value="Fix: ökade textkontrast genom mörkare textfärg" />
+    <MESSAGE value="Accessibility: förbättrade färgkontrast på primary-button" />
+    <MESSAGE value="Accessibility: förbättrade färgkontrast till footer och lade till hover-effekter för bättre tillgänglighet" />
+    <MESSAGE value="UI: uppdaterade add-to-cart med förbättrad kontrast och hover" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI: uppdaterade add-to-cart med förbättrad kontrast och hover" />
   </component>
 </project>
