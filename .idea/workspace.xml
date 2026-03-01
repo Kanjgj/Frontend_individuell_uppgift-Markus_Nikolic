@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="fix: lagt till lang-attribut på html-elementet">
+    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="Fix: Fixat flera h1 taggar och ändrat dem till h3">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772399166516</updated>
       <workItem from="1772399167572" duration="900000" />
-      <workItem from="1772402896427" duration="1761000" />
+      <workItem from="1772402896427" duration="2110000" />
     </task>
     <task id="LOCAL−00001" summary="La in axe kod för fick inte axe extension till att funka">
       <option name="closed" value="true" />
@@ -91,7 +91,21 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1772403190678</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Fix: La in nya bilder som är passande och har lagt till korrekta alt-attribut på alla bilder">
+      <option name="closed" value="true" />
+      <created>1772404746083</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1772404746083</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Fix: Fixat flera h1 taggar och ändrat dem till h3">
+      <option name="closed" value="true" />
+      <created>1772404890158</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1772404890158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="La in axe kod för fick inte axe extension till att funka" />
     <MESSAGE value="fix: lagt till lang-attribut på html-elementet" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: lagt till lang-attribut på html-elementet" />
+    <MESSAGE value="Fix: La in nya bilder som är passande och har lagt till korrekta alt-attribut på alla bilder" />
+    <MESSAGE value="Fix: Fixat flera h1 taggar och ändrat dem till h3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Fixat flera h1 taggar och ändrat dem till h3" />
   </component>
 </project>
