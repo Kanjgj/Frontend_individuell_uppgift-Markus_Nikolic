@@ -49,7 +49,7 @@ LCP mättes med Chrome DevTools.
 LCP: 0.50 sekunder
 
 ### Efter optimering
-LCP: 0.37 sekunder
+LCP: 0.20 sekunder
 
 ### Genomförda optimeringar
 
