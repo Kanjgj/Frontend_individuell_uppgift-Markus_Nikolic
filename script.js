@@ -85,9 +85,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 interactiveElements[currentIndex].click();
             }
 
-            // ESC avslutar keyboard mode
+            // ESC lämnar aktivt element men stannar i keyboard mode
             if (e.key === "Escape") {
-                keyboardMode = false;
                 interactiveElements[currentIndex].blur();
             }
         }
