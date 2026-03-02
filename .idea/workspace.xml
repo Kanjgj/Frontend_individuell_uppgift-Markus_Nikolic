@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="UI: lade till interaktionsfeedback på knappar">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="UI: La in en ny bild till start sidan">
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772399166516</updated>
       <workItem from="1772399167572" duration="900000" />
-      <workItem from="1772402896427" duration="7305000" />
+      <workItem from="1772402896427" duration="8431000" />
     </task>
     <task id="LOCAL−00001" summary="La in axe kod för fick inte axe extension till att funka">
       <option name="closed" value="true" />
@@ -208,7 +209,14 @@
       <option name="presentableId" value="LOCAL−00018" />
       <updated>1772407750510</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL−00019" summary="UI: La in en ny bild till start sidan">
+      <option name="closed" value="true" />
+      <created>1772410282431</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1772410282431</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +252,7 @@
     <MESSAGE value="UI: förbättrade design och hover-effekt för produktkort" />
     <MESSAGE value="UI: förbättrade navigation med hover och uppdaterad logotyp-stil" />
     <MESSAGE value="UI: lade till interaktionsfeedback på knappar" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI: lade till interaktionsfeedback på knappar" />
+    <MESSAGE value="UI: La in en ny bild till start sidan" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI: La in en ny bild till start sidan" />
   </component>
 </project>

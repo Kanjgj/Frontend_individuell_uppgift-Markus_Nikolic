@@ -208,3 +208,8 @@ body {
 .footer a:hover {
     text-decoration: underline;
 }
+
+.keyboard-focus {
+    outline: 3px solid #1a7f37;
+    outline-offset: 3px;
+}
