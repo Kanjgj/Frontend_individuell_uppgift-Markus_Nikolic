@@ -71,6 +71,24 @@ Resultatet visar en mätbar förbättring av sidans upplevda laddningstid.
 
 ---
 
+## Tangentbordsläge (Keyboard Mode)
+
+Sidan innehåller ett anpassat tangentbordsläge för navigering utan mus.
+
+### Så används det:
+
+1. Tryck **Tab** för att aktivera tangentbordsläget.
+2. Använd:
+   - **Högerpil / Nedpil** för att navigera till nästa interaktiva element.
+   - **Vänsterpil / Uppil** för att navigera till föregående element.
+3. Tryck **Enter** för att aktivera valt element.
+4. Tryck **ESC** för att avsluta tangentbordsläget.
+5. Tryck **Tab** igen för att återgå till normal webbnavigation.
+
+När tangentbordsläget är aktivt markeras det aktuella elementet visuellt.
+
+---
+
 ## Sammanfattning
 
 Projektet visar hur tillgänglighet och prestanda kan förbättras genom:
