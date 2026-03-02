@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="UI: uppdaterade add-to-cart med förbättrad kontrast och hover">
+    <list default="true" id="da062a6e-0893-4f25-b7ab-42f5ad9d41fe" name="Changes" comment="UI: lade till interaktionsfeedback på knappar">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -76,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772399166516</updated>
       <workItem from="1772399167572" duration="900000" />
-      <workItem from="1772402896427" duration="4396000" />
+      <workItem from="1772402896427" duration="7305000" />
     </task>
     <task id="LOCAL−00001" summary="La in axe kod för fick inte axe extension till att funka">
       <option name="closed" value="true" />
@@ -169,7 +173,42 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1772407091998</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="UI: implementerade Inter som primär font">
+      <option name="closed" value="true" />
+      <created>1772407372107</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1772407372107</updated>
+    </task>
+    <task id="LOCAL−00015" summary="UI: justerade storlek och vikt på rubriker">
+      <option name="closed" value="true" />
+      <created>1772407433390</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1772407433390</updated>
+    </task>
+    <task id="LOCAL−00016" summary="UI: förbättrade design och hover-effekt för produktkort">
+      <option name="closed" value="true" />
+      <created>1772407492550</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1772407492550</updated>
+    </task>
+    <task id="LOCAL−00017" summary="UI: förbättrade navigation med hover och uppdaterad logotyp-stil">
+      <option name="closed" value="true" />
+      <created>1772407577471</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1772407577471</updated>
+    </task>
+    <task id="LOCAL−00018" summary="UI: lade till interaktionsfeedback på knappar">
+      <option name="closed" value="true" />
+      <created>1772407750510</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1772407750510</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +239,11 @@
     <MESSAGE value="Accessibility: förbättrade färgkontrast på primary-button" />
     <MESSAGE value="Accessibility: förbättrade färgkontrast till footer och lade till hover-effekter för bättre tillgänglighet" />
     <MESSAGE value="UI: uppdaterade add-to-cart med förbättrad kontrast och hover" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI: uppdaterade add-to-cart med förbättrad kontrast och hover" />
+    <MESSAGE value="UI: implementerade Inter som primär font" />
+    <MESSAGE value="UI: justerade storlek och vikt på rubriker" />
+    <MESSAGE value="UI: förbättrade design och hover-effekt för produktkort" />
+    <MESSAGE value="UI: förbättrade navigation med hover och uppdaterad logotyp-stil" />
+    <MESSAGE value="UI: lade till interaktionsfeedback på knappar" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI: lade till interaktionsfeedback på knappar" />
   </component>
 </project>
