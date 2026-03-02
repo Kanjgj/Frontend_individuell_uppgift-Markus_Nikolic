@@ -82,7 +82,7 @@ Sidan innehåller ett anpassat tangentbordsläge för navigering utan mus.
    - **Högerpil / Nedpil** för att navigera till nästa interaktiva element.
    - **Vänsterpil / Uppil** för att navigera till föregående element.
 3. Tryck **Enter** för att aktivera valt element.
-4. Tryck **ESC** för att avsluta tangentbordsläget.
+4. Tryck **ESC** för att lämna det aktiva elementet.
 5. Tryck **Tab** igen för att återgå till normal webbnavigation.
 
 När tangentbordsläget är aktivt markeras det aktuella elementet visuellt.
